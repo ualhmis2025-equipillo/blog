@@ -5,7 +5,7 @@ permalink: /nosotros/sergio.markdown/
 ---
 
 
-![Sergio](/assets/fotoSergio.jpg){: style="width:200px; border-radius:50%;"}
+![Sergio]({{ site.baseurl }}/assets/fotoSergio.jpg){: style="width:200px; border-radius:50%;"}
 
 
 ## 👋 ¡Hola, soy Sergio!

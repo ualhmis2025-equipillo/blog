@@ -11,7 +11,7 @@ author: Sergio Gómez
 Jekyll es un **SSG** de código abierto elaborado y ejecutado sobre el lenguaje **Ruby**.  
 Se puede utilizar para crear varios tipos de **sitios estáticos**, como un **blog** (objetivo de esta sesión) o un **sitio web de portafolio**, sin necesidad de una **BBDD** o un **sistema de gestión de contenidos**.  
 
-![Introducción a Jekyll](/assets/jekyll.png)
+![Introducción a Jekyll]({{ site.baseurl }}/assets/jekyll.png)
 
 
 Esto hace que destaque entre los SSG debido a su:  
@@ -63,13 +63,13 @@ Para comenzar un nuevo proyecto en Jekyll, abre una terminal y ejecuta el siguie
 - **📂 Añadir contenido:**  
   Escribe entradas de blog en la carpeta `_posts/`, usando archivos Markdown (`*.md`).
 
-  ![Introducción a Jekyll](/assets/md.png)
+  ![Introducción a Jekyll]({{ site.baseurl }}/assets/md.png)
 
 
 - **⚙️ Modificar la configuración:**  
   Edita `_config.yml` para cambiar el título, la descripción y otros ajustes del sitio.
 
-  ![Introducción a Jekyll](/assets/configyml.png){:width="600px"}
+  ![Introducción a Jekyll]({{ site.baseurl }}/assets/configyml.png){:width="600px"}
 
 
 - **🎨 Personalizar el diseño:**  
@@ -79,6 +79,6 @@ Para comenzar un nuevo proyecto en Jekyll, abre una terminal y ejecuta el siguie
   ## **¡LISTO! Ya tienes tu blog disponible**
   Una vez realizados estos pasos ya puedes personalizar tu blog añadiendo entradas a la página y personalizar a tu gusto.  
 
-    ![Introducción a Jekyll](/assets/jekyll2.png){:width="600px"}
+    ![Introducción a Jekyll]({{ site.baseurl }}/assets/jekyll2.png){:width="600px"}
 
 
