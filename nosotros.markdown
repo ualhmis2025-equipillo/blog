@@ -11,20 +11,20 @@ Somos un equipo de apasionados de la informática, dedicados a compartir conocim
 
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <div style="text-align: center;">
-   <a href="/nosotros/adrian.markdown">
-    <img src="/assets/fotoAdrian.jpg" alt="Adrián" style="width:150px; border-radius: 50%;">
+   <a href="{{ site.baseurl }}/nosotros/adrian.markdown">
+    <img src="{{ site.baseurl }}/assets/fotoAdrian.jpg" alt="Adrián" style="width:150px; border-radius: 50%;">
     <p><strong>Adrián</strong></p>
    </a>
   </div>
   <div style="text-align: center;">
-   <a href="/nosotros/andres.markdown">
-    <img src="/assets/fotoAndres.jpg" alt="Andrés" style="width:150px; border-radius: 50%;">
+   <a href="{{ site.baseurl }}/nosotros/andres.markdown">
+    <img src="{{ site.baseurl }}/assets/fotoAndres.jpg" alt="Andrés" style="width:150px; border-radius: 50%;">
     <p><strong>Andrés</strong></p>
    </a>
   </div>
   <div style="text-align: center;">
-   <a href="/nosotros/sergio.markdown">
-    <img src="/assets/fotoSergio.jpg" alt="Sergio" style="width:150px; border-radius: 50%;">
+   <a href="{{ site.baseurl }}/nosotros/sergio.markdown">
+    <img src="{{ site.baseurl }}/assets/fotoSergio.jpg" alt="Sergio" style="width:150px; border-radius: 50%;">
     <p><strong>Sergio</strong></p>
    </a>
   </div>

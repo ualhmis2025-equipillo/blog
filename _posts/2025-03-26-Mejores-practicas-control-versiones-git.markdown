@@ -74,20 +74,20 @@ Sabemos que la mejor forma de aprender (sea lo que sea), es con la práctica. Po
 
 Codecademy es una plataforma de cursos de desarrollo y uno de ellos permite aprender git con una consola online y contiene 12 capítulos con ejercicios para realizar.
 
-![imagenCodecademi](/assets/codeAcademy.png)
+![imagenCodecademi]({{ site.baseurl }}/assets/codeAcademy.png)
 
 
 ### 2. [Oh my git][ohMyGit]
 
 Es un juego interactivo, el cual es un desarrollo de código abierto y tiene como objetivo realizar diferentes desafios y aprender como trabajar con git.
 
-![imagenohmygit](/assets/ohmygit.png)
+![imagenohmygit]({{ site.baseurl }}/assets/ohmygit.png)
 
 ### 3. [Learn Git Branching][learnGitBranching]
 
 Esta aplicación te permite aprender de manera interactiva a trabajar con ramas en git.
 
-![imagenlearning](/assets/learning.jpg)
+![imagenlearning]({{ site.baseurl }}/assets/learning.jpg)
 
 
 [codecademy]: https://www.codecademy.com/learn/learn-git

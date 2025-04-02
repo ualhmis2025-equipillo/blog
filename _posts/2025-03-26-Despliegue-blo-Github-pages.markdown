@@ -26,12 +26,12 @@ Sigue estos pasos para publicar tu blog en **GitHub Pages**:
    - Ve a la página principal de tu repositorio en GitHub  
    - Haz clic en **"Settings"** (Configuración)  
 
-   ![Configuración del repositorio](/assets/img1.jpg){:width="600px"}   
+   ![Configuración del repositorio]({{ site.baseurl }}/assets/img1.jpg){:width="600px"}   
 
 #### 2. **Ir a la sección "Pages"**  
    - En el menú lateral izquierdo, busca y selecciona **"Pages"**  
 
-   ![Sección Pages](/assets/img2.jpg)  
+   ![Sección Pages]({{ site.baseurl }}/assets/img2.jpg)  
 
 #### 3. **Seleccionar el branch fuente**  
    - En el apartado **"Source"**, elige entre:  

@@ -4,7 +4,7 @@ title: Adrián
 permalink: /nosotros/adrian.markdown/
 ---
 
-![Adrián](/assets/fotoAdrian.jpg){: style="width:200px; border-radius:50%;"}
+![Adrián]({{ site.baseurl }}/assets/fotoAdrian.jpg){: style="width:200px; border-radius:50%;"}
 
 ## 👋 ¡Hola, soy Adrián!
 
